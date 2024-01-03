@@ -1,0 +1,50 @@
+# OS and Editor specific files
+.DS_Store
+Thumbs.db
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+
+# Compiled files
+*.o
+*.ko
+*.pyc
+*.pyo
+*.pyd
+*.exe
+*.dll
+*.obj
+
+# Temporary files
+*.swp
+*~
+
+# Logs
+*.log
+
+# macOS
+.AppleDouble
+.DS_Store
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# JetBrains
+.idea/
+
+# Virtual environment
+venv/
+env/
